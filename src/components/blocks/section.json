@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_sections",
+  "info": {
+    "displayName": "section",
+    "icon": "apps",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "section": {
+      "displayName": "section",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.section"
+    }
+  }
+}
