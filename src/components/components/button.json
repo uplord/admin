@@ -1,7 +1,8 @@
 {
   "collectionName": "components_components_buttons",
   "info": {
-    "displayName": "button"
+    "displayName": "button",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -17,6 +18,13 @@
     },
     "target": {
       "type": "string"
+    },
+    "file": {
+      "allowedTypes": [
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
